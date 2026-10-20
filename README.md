@@ -15,15 +15,11 @@ I also integrate LLMs into real products (OpenAI GPT-4o, Whisper, TTS) and, in m
 
 #### Featured
 
-- **[payrest](https://github.com/LICObr/payrest)** — Payment gateway API — charges, approvals and refunds on a race-safe state machine. <sub>`Go`</sub>
+- **[payrest](https://github.com/LICObr/payrest)** — Payment gateway API: charges, approvals and refunds on a race-safe state machine. <sub>`Go`</sub>
 - **[tinytrail](https://github.com/LICObr/tinytrail)** — URL shortener with click analytics. <sub>`TypeScript · Express · SQLite · Vitest`</sub>
 - **[cryptopulse](https://github.com/LICObr/cryptopulse)** — Crypto price ETL: fetch → persist → metrics → schedule. <sub>`Python · SQLite`</sub>
 - **[EcoTrack](https://github.com/LICObr/AEP-Esoft6C-EcoTrack)** — Recycling drop-off API with OpenAPI docs and CI. <sub>`Java 21 · Spring Boot · MongoDB`</sub>
 - **[Sky Serpents Supremo](https://github.com/LICObr/Sky-serpents-game)** — 2D pixel-art platformer with bosses and 2-player co-op. <sub>`JavaScript · Phaser 3`</sub>
-
-<a href="https://github.com/LICObr/Sky-serpents-game">
-  <img src="https://raw.githubusercontent.com/LICObr/Sky-serpents-game/HEAD/docs/screenshots/fase5_rainha.jpg" alt="Sky Serpents Supremo — boss fight" width="560">
-</a>
 
 #### Stack
 

@@ -1,25 +1,32 @@
-# Danilo Schuler
+### Danilo Schuler
 
-Desenvolvedor de Software · Backend & Integração de IA
+<samp>Backend developer · Go · Java / Spring · TypeScript · AI integrations · Brazil</samp>
 
-## Skills
+<samp>
+<a href="https://www.linkedin.com/in/dmschuler1">linkedin</a> ·
+<a href="mailto:danilo_schuler@hotmail.com">email</a> ·
+<a href="https://github.com/LICObr?tab=repositories">all projects</a>
+</samp>
 
-**Linguagens:** Go · Python · TypeScript / JavaScript · Java · C
+<br><br>
 
-**Backend:** Node.js (Fastify, Express) · Spring Boot · APIs REST
+I build backend services: REST APIs with clear boundaries (Clean Architecture, SOLID), tests that catch real bugs, and errors that come back with the right status code.
+I also integrate LLMs into real products (OpenAI GPT-4o, Whisper, TTS) and, in my spare time, make games.
 
-**IA & Dados:** Integração OpenAI (GPT-4o, Whisper, TTS) · Engenharia de prompt · Visão computacional · NLP
+#### Featured
 
-**Bancos de Dados:** PostgreSQL · MySQL · SQLite · Prisma ORM · Supabase · Row-Level Security (RLS)
+| | |
+|---|---|
+| **[payrest](https://github.com/LICObr/payrest)** | Payment gateway API — charges, approvals and refunds on a race-safe state machine. <sub>Go</sub> |
+| **[tinytrail](https://github.com/LICObr/tinytrail)** | URL shortener with click analytics. <sub>TypeScript · Express · SQLite · Vitest</sub> |
+| **[cryptopulse](https://github.com/LICObr/cryptopulse)** | Crypto price ETL: fetch → persist → metrics → schedule. <sub>Python · SQLite</sub> |
+| **[EcoTrack](https://github.com/LICObr/AEP-Esoft6C-EcoTrack)** | Recycling drop-off API with OpenAPI docs and CI. <sub>Java 21 · Spring Boot · MongoDB</sub> |
+| **[Sky Serpents Supremo](https://github.com/LICObr/Sky-serpents-game)** | 2D pixel-art platformer with bosses and 2-player co-op. <sub>JavaScript · Phaser 3</sub> |
 
-**Infra & Ferramentas:** Git / GitHub · Redis · BullMQ · Deploy em VPS · Twilio · Google Calendar API
+<a href="https://github.com/LICObr/Sky-serpents-game">
+  <img src="https://raw.githubusercontent.com/LICObr/Sky-serpents-game/HEAD/docs/screenshots/fase5_rainha.jpg" alt="Sky Serpents Supremo — boss fight" width="560">
+</a>
 
-**Arquitetura:** Clean Architecture · Princípios SOLID
+#### Stack
 
-**Front-end:** HTML · CSS / SCSS · React
-
-**Metodologias:** Scrum · Kanban
-
-## Contato
-
-[LinkedIn](https://www.linkedin.com/in/dmschuler1) · [email](mailto:danilo_schuler@hotmail.com)
+<img src="https://skillicons.dev/icons?i=go,java,spring,ts,nodejs,py,postgres,mysql,mongodb,sqlite,redis,prisma,supabase,react,angular,git&perline=16" alt="Go, Java, Spring, TypeScript, Node.js, Python, PostgreSQL, MySQL, MongoDB, SQLite, Redis, Prisma, Supabase, React, Angular, Git" height="32">

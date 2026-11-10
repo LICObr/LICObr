@@ -15,7 +15,7 @@ I also integrate LLMs into real products (OpenAI GPT-4o, Whisper, TTS) and, in m
 
 #### Featured
 
-- **[MedFlow](https://github.com/LICObr/medflow)** — Voice prescription SaaS: the doctor dictates, AI fills the fields, the doctor reviews and prints the PDF. <sub>`NestJS · Prisma · PostgreSQL · OpenAI`</sub>
+- **MedFlow** <sub>(private, commercial product)</sub> — Voice prescription SaaS: the doctor dictates, AI fills the fields, the doctor reviews and prints the PDF. <sub>`NestJS · Prisma · PostgreSQL · OpenAI`</sub>
 - **[payrest](https://github.com/LICObr/payrest)** — Payment gateway API: charges, approvals and refunds on a race-safe state machine. <sub>`Go`</sub>
 - **[tinytrail](https://github.com/LICObr/tinytrail)** — URL shortener with click analytics. <sub>`TypeScript · Express · SQLite · Vitest`</sub>
 - **[cryptopulse](https://github.com/LICObr/cryptopulse)** — Crypto price ETL: fetch → persist → metrics → schedule. <sub>`Python · SQLite`</sub>
